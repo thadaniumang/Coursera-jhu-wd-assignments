@@ -1,0 +1,14 @@
+#heading{
+    margin: 15px;
+}
+
+.container .row section{
+    padding: 7.5px;
+    font-size: 1.25em;
+}
+
+.container .row section div{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgba(184, 184, 184, 0.78);
+}
